@@ -35,7 +35,7 @@ const Page = () => {
           <FaLinkedin className="text-white" /> LinkedIn
         </a>
         <a
-          href="/Mohammad Ismail full Stack Developer.pdf"
+          href="/Mohamad-Ismail Full Stack Developer.pdf"
           download
           className="bg-blue-600 hover:bg-blue-700 text-white font-medium py-3 px-6 rounded-full text-center transition-all duration-300 shadow-md hover:shadow-lg flex items-center justify-center gap-2"
         >
