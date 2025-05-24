@@ -22,7 +22,7 @@ const ImageSection = () => {
             className="w-20 h-[240px] md:h-[350px] bg-blue-600"
           ></div>
           <Image
-            src="/images/112A4964(1).JPG"
+            src="/images/mohammad.jpg"
             alt="Your Image"
             layout="fill"
             objectFit="cover"
